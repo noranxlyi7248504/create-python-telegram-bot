@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Create Python Telegram Bot](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/create-python-telegram-bot)
+[![Download Create Python Telegram Bot](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/aok1wk1qtW9KQG993)
 
 </div>
 
@@ -145,7 +145,7 @@
 
 <div align="center">
 
-[![Download Create Python Telegram Bot](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/create-python-telegram-bot)
+[![Download Create Python Telegram Bot](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/aok1wk1qtW9KQG993)
 
 </div>
 
@@ -336,7 +336,7 @@ Create Telegram bots without coding for free. **Create Python Telegram Bot – A
 
 <div align="center">
 
-[![Download Create Python Telegram Bot](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/create-python-telegram-bot)
+[![Download Create Python Telegram Bot](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/aok1wk1qtW9KQG993)
 
 **Version 5.1.0** — Free Python Telegram bot generator. May 2026 update. Zero cost. No payment.
 
